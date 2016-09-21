@@ -1,0 +1,6 @@
+Instructions: Run main.py using Python (2.7.6 preferred).
+
+To run: $ python main.py
+To run with dummy values inserted: $ python main.py test
+
+If no database exists, program will create a new one.

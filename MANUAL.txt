@@ -1,0 +1,17 @@
+﻿Money Manager User's Manual
+
+Before doing anything else go to Account Management window via either the Account management button or tab. While in the window, be sure to set up an account of some type.   
+
+Once an account has been created, income or other funds can be added to the account or any other account made via the Add Income button or by simply clicking on the Income tab at the top of the main window. 
+
+With the Money Manager app you can easily keep track of all purchases made. By clicking the Add Purchase button or by clicking the Transactions tab at the top you easily log all purchases you or loved ones have recently made. 
+
+Another great feature of the Money Manager App is the ability to keep track of all bills recently paid by simply clicking on the Add Bills button or by clicking the Bills tab at the top you can enter all recently paid bills to better keep track of your finances. 
+
+Having trouble keeping track of how much money you spend a month? Well look no further than the set goals button to put a cap on your monthly spending. 
+
+You can see all increase or decreases being made to your accounts via the threee labels shown at the top right of the main screen. 
+
+Recent Transactions as well as Upcoming Bills can also be viewed on the main screen in the upper right hand side of the screen. 
+
+Thank you for choosing our Money Manager App and have a pleasant day. 
